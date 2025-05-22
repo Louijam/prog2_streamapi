@@ -30,7 +30,7 @@ public class Main {
      * @param studentList List of students
      * @return Sum of credit points of all students
      */
-    public static Integer students(List<Student> studentList) {
+    public static Integer students(List<recordStudent> studentList) {
         // TODO
         throw new UnsupportedOperationException();
     }
@@ -43,7 +43,7 @@ public class Main {
      * @param studentList List of students
      * @return Set of credit points of all IFM students
      */
-    public static Set<Integer> ifmCps(List<Student> studentList) {
+    public static Set<Integer> ifmCps(List<recordStudent> studentList) {
         // TODO
         throw new UnsupportedOperationException();
     }
